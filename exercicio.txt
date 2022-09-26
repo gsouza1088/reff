@@ -1,0 +1,3 @@
+crie uma pagina com nome de 
+boxmodel.html
+conteudo sera 2 divs com texto criar um stilo css para margem superior, esquerda e direita com 25px uma borda com 10px espaçamento interno: superior e esquerdo de 50px 

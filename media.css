@@ -1,0 +1,30 @@
+* {
+   padding: 0;
+   margin: 0;
+}
+
+body {
+   font-size: 20px;
+}
+
+.modo {
+   border: 1px solid #666;
+   padding: 5px 10px;
+   margin: 40px;
+}
+
+@media (min-width: 900px) {
+   .um {
+      background: #0f0;
+   }
+}
+@media (min-width: 768px) {
+   .doi {
+      background: #f00;
+   }
+}
+@media (min-width: 600px) {
+   .tres {
+      background: #00f;
+   }
+}
